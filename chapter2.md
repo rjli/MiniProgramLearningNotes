@@ -1,10 +1,6 @@
-#编写一个简单的页面
+# 编写一个简单的页面
 
 ---
-
-> 开发前准备， 创建一个空的项目，建立小程序中必须的文件app.json，app.wxss以及pages文件夹,以及。然在pages下面创建welcome文件夹，然后建立对应welcome.wxml,welcome.wxss文件
-> 
-
 
 ## 移动端的分辨率与rpx
 
