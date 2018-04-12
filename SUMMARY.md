@@ -1,6 +1,6 @@
 # Table of content
 
-* [ 第一章 ](chapter1/快速创建一个小程序.md)
+* [ 第一章 ](chapter1/chapter.md)
 * [ 第二章 ](introduction.md)
 	* [编写一个简单的页面]()
 	* [移动端分辨率](移动端分辨率.md)
