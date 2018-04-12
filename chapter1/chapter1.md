@@ -79,7 +79,7 @@ project.config.json
 5.pages 小程序模板存放的文件夹
 > 在小程序中所有的模板都在此文件中，并且每一个页面对应中有4个文件
 
- <table border="1">
+ <table>
   <tr>
     <th>文件类型</th>
     <th>必填</th>
