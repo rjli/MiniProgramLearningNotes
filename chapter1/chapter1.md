@@ -75,36 +75,36 @@ project.config.json
 4.project.config.json 是工具配置文件。
 
 > 所有对当前开发工具做的操作都会保存到project.config.json文件中，当我们重新安装工具或者是更换电脑时，只需导入项目的代码即可恢复我们之前对工具的一些设置。
-
  
 5.pages 小程序模板存放的文件夹
 > 在小程序中所有的模板都在此文件中，并且每一个页面对应中有4个文件
-> <table border="1">
-	  <tr>
-	    <th>文件类型</th>
-	    <th>必填</th>
-	    <th>作用</th>
-	  </tr>
-	  <tr>
-	    <td>js</td>
-	    <td>是</td>
-	    <td>页面逻辑</td>
-	  </tr>
-	  <tr>
-	    <td>wxml</td>
-	    <td>是</td>
-	    <td>页面结构</td>
-	  </tr>
-      <tr>
-	    <td>wxss</td>
-	    <td>否</td>
-	    <td>页面样式表</td>
-	  </tr>
-      <tr>
-	    <td>json</td>
-	    <td>否</td>
-	    <td>页面配置</td>
-	  </tr>
+
+ <table border="1">
+  <tr>
+    <th>文件类型</th>
+    <th>必填</th>
+    <th>作用</th>
+  </tr>
+  <tr>
+    <td>js</td>
+    <td>是</td>
+    <td>页面逻辑</td>
+  </tr>
+  <tr>
+    <td>wxml</td>
+    <td>是</td>
+    <td>页面结构</td>
+  </tr>
+  <tr>
+    <td>wxss</td>
+    <td>否</td>
+    <td>页面样式表</td>
+  </tr>
+  <tr>
+    <td>json</td>
+    <td>否</td>
+    <td>页面配置</td>
+  </tr>
 </table>
 
 >- 为了方便开发者减少配置项，描述页面的四个文件必须具有相同的路径与文件名。  
