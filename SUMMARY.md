@@ -1,7 +1,7 @@
 # 小程序入门实战
 
-* [ 第一章 快速搭建一个小程序项目 ](chapter1/chapter1.md)
-* [ 第二章 创建一个简单的页面](chapter2/chapter2.md)
+* [ 第一章 快速搭建一个小程序项目 ](chapter1.md)
+* [ 第二章 创建一个简单的页面](chapter2.md)
 
 
 
